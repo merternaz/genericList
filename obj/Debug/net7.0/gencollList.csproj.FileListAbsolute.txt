@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\gencollList\bin\Debug\net7.0\gencollList.exe
+C:\Users\MONSTER\GitProject\gencollList\bin\Debug\net7.0\gencollList.deps.json
+C:\Users\MONSTER\GitProject\gencollList\bin\Debug\net7.0\gencollList.runtimeconfig.json
+C:\Users\MONSTER\GitProject\gencollList\bin\Debug\net7.0\gencollList.dll
+C:\Users\MONSTER\GitProject\gencollList\bin\Debug\net7.0\gencollList.pdb
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\gencollList.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\gencollList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\gencollList.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\gencollList.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\gencollList.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\gencollList.dll
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\refint\gencollList.dll
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\gencollList.pdb
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\gencollList.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\gencollList\obj\Debug\net7.0\ref\gencollList.dll
